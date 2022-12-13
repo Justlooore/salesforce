@@ -1,0 +1,226 @@
+#nav {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: fixed;
+    display: flex;
+    text-decoration: none;
+
+}
+
+body {
+    margin: 0%;
+    background-color: white;
+}
+
+#img {
+    width: 90px;
+    height: 80px;
+}
+
+.set {
+    margin-top: 40px;
+}
+
+.set1 {
+    margin-top: 10px;
+}
+
+#nav1 {
+    width: 100%;
+    height: 450px;
+    background-image: url(../img/img.webp);
+    background-repeat: no-repeat;
+    line-height: 8px;
+    display: flex;
+}
+
+#but {
+    width: 70px;
+    background-color: green;
+    height: 50px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+li {
+    list-style: none;
+    margin-left: 30px;
+}
+
+.web {
+    margin-top: 120px;
+    height: 50px;
+}
+
+#head1 {
+    font-size: 50px;
+    color: lightblue;
+    margin-bottom: 10px;
+}
+
+#wee {
+    margin-top: 0px;
+}
+
+#sec {
+    background-color: green;
+}
+
+#sec2 {
+    background-color: aquamarine;
+}
+
+#head {
+    margin-bottom: 100px;
+    margin-left: 350px;
+    font-size: 45px;
+}
+
+.pic {
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+#container {
+    display: flex;
+}
+
+#container2 {
+    display: flex;
+}
+
+.pic2 {
+    width: 200px;
+    height: 25pox;
+}
+
+.said {
+    height: 150px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+#sad {
+    height: 450px;
+    width: 500px;
+}
+
+.container4 {
+    display: flex;
+}
+.bruh{
+    margin-left:15px ;
+}
+#sit{
+display: flex;
+}
+.test{
+margin-top:20px ;
+}
+#it{
+    width: 100%;
+}
+#bank{
+    background-color: green;
+    height: 200px;
+    width: 250px;
+}
+
+.hold{
+width: 450px;
+height: 400px;
+}
+#wole{
+    margin-left: 20px;
+}
+.h3{
+    font-size:25px ;
+    font-weight: 900;
+    color: #0176d3;
+}
+#crm{
+    color: #0176d3;
+    font-size: 80px;
+}
+#net{
+    color: #0176d3;
+    border:  2px, #0176d3;
+    border-color: #0176d3;
+}
+.find{
+    color:#0176d3;
+}
+#when{
+    font-size: 25px;
+    margin-left: 200px;
+}
+.class{
+    font-size:20px ;
+}
+#its{
+    font-size:25px ;
+    margin-left: 250px ;
+    color: #0176d3;
+}
+#look{
+    display: flex;
+}
+#look3{
+    margin-left: 200px;
+}
+.breakfast{
+    margin-left: 100px;
+}
+#down{
+    margin-top: 120px;
+}
+.right1{
+    margin-left: 30px;
+}
+#water{
+    margin-left: 500px;
+    width:200px;
+}
+#screw{
+display: flex;
+}
+#touch{
+    display: flex;
+}
+#vee{
+    margin-left: 550px;
+}
+.cont{
+margin-bottom:-250px ;
+font-size: 25px;
+}
+#fire{
+    margin-left: 300px; 
+    margin-top: 200px;
+    height:600px ;
+    width: 900px;
+}
+#setup{
+    height:60px ;
+    width: 90px;
+}
+#cap{
+    display: flex;
+}
+#capital{
+    display: flex;
+    margin-left: 200px;
+    color: #0176d3;
+    text-decoration: none;
+}
+#bank{
+    color: green;
+    height: 70px;
+    width: 100px;
+}
+#net{
+    height:70px ;
+    width: 100px;
+}
